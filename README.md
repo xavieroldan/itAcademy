@@ -1,1 +1,1 @@
-Exercici modelatge BBDD
+Exercici queries SQL
