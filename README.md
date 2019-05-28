@@ -1,1 +1,1 @@
-itAcademy
+Exercici Rockets
