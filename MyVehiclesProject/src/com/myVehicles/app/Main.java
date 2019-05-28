@@ -1,5 +1,8 @@
-package com.vehicles.project;
+package com.myVehicles.app;
 
+import com.myVehicles.models.Wheel;
+import com.myVehicles.models.Car;
+import com.myVehicles.models.Bike;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

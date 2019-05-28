@@ -1,4 +1,4 @@
-package com.vehicles.project;
+package com.myVehicles.models;
 
 public class Wheel
 {
