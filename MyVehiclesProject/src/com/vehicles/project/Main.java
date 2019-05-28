@@ -32,9 +32,9 @@ public class Main
             switch (typeVehicle)
             {
 
-                case "Construyamos un coche!":
+                case "coche":
                 {
-                    System.out.println("es coche!");
+                    System.out.println("Construyamos un coche!");
                     isTypeVerified = true;
                     break;
                 }
@@ -48,7 +48,7 @@ public class Main
                 {
                     System.out.println("Elige el tipo de vehículo entre las opciones correctas.\n");
                     isTypeVerified = false;
-                    break;
+                    break; //
                 }
             }
         }
