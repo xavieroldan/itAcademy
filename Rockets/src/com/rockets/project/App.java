@@ -149,7 +149,7 @@ public class App
         myInterface.rocketSpeed(rocket2);
 
         //Accelerar 15 cops amb els dos coets.
-        System.out.println("\n//Accelerar 15 cops amb els dos coets.");
+        System.out.println("\nAccelerar 15 cops amb els dos coets.");
         for (int i = 0; i < 15; i++)
         {
             rocket1.accelerateRocket();
