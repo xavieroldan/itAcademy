@@ -1,1 +1,2 @@
-Explore all the exercices in the diferent branchs
+
+Explore all the exercises at the different branches
